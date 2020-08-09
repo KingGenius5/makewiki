@@ -1,5 +1,7 @@
 # 📓 Personal Wiki
 
+# Not the working version!!!
+
 View the [lesson plan] that accompanies this activity.
 
 ## Step 1: Follow Setup Guide
